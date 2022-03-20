@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: "akmdocker88/nodejsapp:latest"
+        image: "akmdocker88/nodejsapplication:latest"
         ports:
           - containerPort: 3000
 ---
