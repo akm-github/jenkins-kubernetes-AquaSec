@@ -102,6 +102,8 @@ git add .
 
 git commit -m "Adding all the files"
 
+git status
+
 git push
 
 #Step6: Installing Jenkins on Ubuntu
